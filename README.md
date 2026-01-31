@@ -1,0 +1,1 @@
+# SyAD-P1-Plan-de-seguridad-f-sica-y-pasiva-para-una-empresa
