@@ -1,25 +1,3 @@
----
-tags:
-source:
-child:
-related_to:
-aliases:
-space: ASIR
-topic:
-  - ASIR Segundo Año
-Materia: "[Seguridad y Alta Disponibilidad](Seguridad%20y%20Alta%20Disponibilidad)"
-Area: "[00 Proyectos - Entregas](00%20Proyectos%20-%20Entregas)"
-Unidad: ""
-status:
-  - to send
-Tipo:
-  - Proyect
-excalidraw-plugin: parsed
-excalidraw-open-md: true
-cssclasses:
-created: 2026-01-29T02:26
-updated: 2026-01-31T10:21
----
 # PLAN DE SEGURIDAD Y ALTA DISPONIBILIDAD: SOLUCIONES TECNOLÓGICAS "TECH-REACH S.A."
 ## 1. Descripción del escenario (Contexto)
 **Tech-Reach S.A.** es una empresa dedicada al desarrollo de software y consultoría IT con una plantilla de **45 empleados**. Su operatividad depende íntegramente de la disponibilidad de sus servicios alojados en el CPD local.
@@ -35,7 +13,7 @@ Al ser una empresa de software, la disponibilidad de los sistemas es clave para 
 - **Suministro Eléctrico:** Crítico tanto para el CPD como para los puestos de trabajo de los desarrolladores.
 ## 2. Seguridad Física del CPD
 ### Ubicación de la sala de servidores
-![000-Assets/P1---Diseño-de-un-plan-básico-de-seguridad-física-y-seguridad-pasiva-para-una-empresa/SyAD](000-Assets/P1---Diseño-de-un-plan-básico-de-seguridad-física-y-seguridad-pasiva-para-una-empresa/SyAD.png)
+![000-Assets/P1---Diseño-de-un-plan-básico-de-seguridad-física-y-seguridad-pasiva-para-una-empresa/SyAD](000-Assets/P1-Diseño-de-un-plan-básico-de-seguridad-física-y-seguridad-pasiva-para-una-empresa/SyAD.png)
 
 Las instalaciones de la empresa Tech-Reach se encuentran en el Parque Tecnológico de Leganés en Madrid, encontrándose lejos de zonas industriales y subestaciones de alta tensión que podrían suponer un riesgo.
 
