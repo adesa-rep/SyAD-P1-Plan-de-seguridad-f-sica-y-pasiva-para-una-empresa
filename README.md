@@ -116,6 +116,7 @@ potencia_necesaria = consumo_total * 1.20
 # coversion a VA para elegir el SAI adecuado
 potencia_minima = potencia_necesaria * 1.25
 ```
+
 #### 2. Grupo Electrógeno (Generador)
 Para cortes de suministro de larga duración, se dispone de un generador diésel ubicado en la **Azotea** del edificio.
 
@@ -133,7 +134,7 @@ Para proteger el CPD de **Tech-Reach S.A.**, no podemos usar agua ni extintores 
 
 - **Protocolo de Actuación ante incendios:** En todo el edificio se encuentra la señalización pertinente y plano de evacuación, se realizan simulacros de manera periódica y se asegura la entrega, lectura y comprensión del plan de actuación por parte de todos los empleados.
 ### Condiciones ambientales
-En el apartado de [Diseño y Distribución Física](#1-diseño-y-distribución-física) de la [Infraestructura del CPD](#Infraestructura%20del%20CPD), se menciona el uso de pasillos fríos y calientes (**sistemas HVAC**) para garantizar el rendimiento óptimo del hardware y aumentar su vida útil. Para mantener una temperatura “ideal” y constante entre 18 y 27Cº para cumplir con la recomendaciones de la ASHRAE, es necesario el uso de sensores para medir:
+En el apartado de [Diseño y Distribución Física](#1-diseño-y-distribución-física) de la [Infraestructura del CPD](#Infraestructura-del-CPD), se menciona el uso de pasillos fríos y calientes (**sistemas HVAC**) para garantizar el rendimiento óptimo del hardware y aumentar su vida útil. Para mantener una temperatura “ideal” y constante entre 18 y 27Cº para cumplir con la recomendaciones de la ASHRAE, es necesario el uso de sensores para medir:
 - Temperatura y Humedad
 - Fugas de agua
 - Calidad del aire.
