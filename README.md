@@ -13,7 +13,7 @@ Al ser una empresa de software, la disponibilidad de los sistemas es clave para 
 - **Suministro Eléctrico:** Crítico tanto para el CPD como para los puestos de trabajo de los desarrolladores.
 ## 2. Seguridad Física del CPD
 ### Ubicación de la sala de servidores
-![000-Assets/P1---Diseño-de-un-plan-básico-de-seguridad-física-y-seguridad-pasiva-para-una-empresa/SyAD](000-Assets/P1-Diseño-de-un-plan-básico-de-seguridad-física-y-seguridad-pasiva-para-una-empresa/SyAD.png)
+![000%20Assets/P1%20-%20Diseño%20de%20un%20plan%20básico%20de%20seguridad%20física%20y%20seguridad%20pasiva%20para%20una%20empresa/](000%20Assets/P1%20-%20Diseño%20de%20un%20plan%20básico%20de%20seguridad%20física%20y%20seguridad%20pasiva%20para%20una%20empresa/.png)
 
 Las instalaciones de la empresa Tech-Reach se encuentran en el Parque Tecnológico de Leganés en Madrid, encontrándose lejos de zonas industriales y subestaciones de alta tensión que podrían suponer un riesgo.
 
@@ -104,7 +104,7 @@ Se han seleccionado **2 unidades SAI de tipo Online / Doble conversión 3000VA (
 
 - **Ubicación**: Los SAI se encuentran en una sala separada en el propio CPD, para proteger los servidores y equipos de red de posibles riesgos generados por ellos. La sala cuenta con ventilación propia, y puerta ignífuga.
 ##### Cálculos para el Dimensionamiento y análisis de un SAI
-![000-Assets/P1---Diseño-de-un-plan-básico-de-seguridad-física-y-seguridad-pasiva-para-una-empresa/SyAD-1](000-Assets/P1---Diseño-de-un-plan-básico-de-seguridad-física-y-seguridad-pasiva-para-una-empresa/SyAD-1.png)
+![000%20Assets/P1%20-%20Diseño%20de%20un%20plan%20básico%20de%20seguridad%20física%20y%20seguridad%20pasiva%20para%20una%20empresa/-1](000%20Assets/P1%20-%20Diseño%20de%20un%20plan%20básico%20de%20seguridad%20física%20y%20seguridad%20pasiva%20para%20una%20empresa/-1.png)
 ```math
 # Suma de potencia real para calcular el consumo de vatios total
 consumo_total = 500 + 350 + 350 + 100 + 150 + 40 + 30 + 50 + 50 + 10
