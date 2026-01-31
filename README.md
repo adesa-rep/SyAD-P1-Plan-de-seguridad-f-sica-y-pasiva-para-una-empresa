@@ -105,6 +105,7 @@ Se han seleccionado **2 unidades SAI de tipo Online / Doble conversión 3000VA (
 - **Ubicación**: Los SAI se encuentran en una sala separada en el propio CPD, para proteger los servidores y equipos de red de posibles riesgos generados por ellos. La sala cuenta con ventilación propia, y puerta ignífuga.
 ##### Cálculos para el Dimensionamiento y análisis de un SAI
 ![000%20Assets/P1%20-%20Diseño%20de%20un%20plan%20básico%20de%20seguridad%20física%20y%20seguridad%20pasiva%20para%20una%20empresa/SyAD-1](000%20Assets/P1%20-%20Diseño%20de%20un%20plan%20básico%20de%20seguridad%20física%20y%20seguridad%20pasiva%20para%20una%20empresa/SyAD-1.png)
+
 ```math
 # Suma de potencia real para calcular el consumo de vatios total
 consumo_total = 500 + 350 + 350 + 100 + 150 + 40 + 30 + 50 + 50 + 10
@@ -132,7 +133,7 @@ Para proteger el CPD de **Tech-Reach S.A.**, no podemos usar agua ni extintores 
 
 - **Protocolo de Actuación ante incendios:** En todo el edificio se encuentra la señalización pertinente y plano de evacuación, se realizan simulacros de manera periódica y se asegura la entrega, lectura y comprensión del plan de actuación por parte de todos los empleados.
 ### Condiciones ambientales
-En el apartado de [Diseño y Distribución Física](#1.%20Diseño%20y%20Distribución%20Física) de la [Infraestructura del CPD](#Infraestructura%20del%20CPD), se menciona el uso de pasillos fríos y calientes (**sistemas HVAC**) para garantizar el rendimiento óptimo del hardware y aumentar su vida útil. Para mantener una temperatura “ideal” y constante entre 18 y 27Cº para cumplir con la recomendaciones de la ASHRAE, es necesario el uso de sensores para medir:
+En el apartado de [Diseño y Distribución Física](#1-diseño-y-distribución-física) de la [Infraestructura del CPD](#Infraestructura%20del%20CPD), se menciona el uso de pasillos fríos y calientes (**sistemas HVAC**) para garantizar el rendimiento óptimo del hardware y aumentar su vida útil. Para mantener una temperatura “ideal” y constante entre 18 y 27Cº para cumplir con la recomendaciones de la ASHRAE, es necesario el uso de sensores para medir:
 - Temperatura y Humedad
 - Fugas de agua
 - Calidad del aire.
