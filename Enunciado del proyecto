@@ -1,0 +1,77 @@
+
+# Diseño de un plan básico de seguridad física y seguridad pasiva  para una empresa  
+Una empresa ficticia de tamaño medio (entre 20 y 50 empleados) dispone de una  **sala de servidores / CPD** donde aloja: 
+- Un servidor de archivos 
+- Un servidor de bases de datos
+- Un servidor de copias de seguridad 
+- Equipamiento de red (switches, firewall) 
+
+La empresa depende de estos sistemas para su actividad diaria, por lo que necesita  garantizar la **disponibilidad del servicio**, la **protección de la información** y la  **rápida recuperación ante incidentes**. 
+## Objetivo del trabajo 
+Diseñar un plan básico pero coherente que cubra: 
+- Medidas de seguridad física 
+- Medidas de seguridad pasiva y recuperación de datos 
+
+Justificando cada decisión desde un punto de vista técnico. 
+## CONTENIDOS QUE DEBE INCLUIR EL TRABAJO 
+### 1️ Descripción del escenario (contexto) 
+• Tipo de empresa (sector a elegir). 
+• Qué servicios son críticos. 
+• Importancia de la disponibilidad de los sistemas. 
+### 2️ Seguridad física del CPD 
+Describir y justificar: 
+#### Ubicación de la sala de servidores 
+- Riesgos evitados (agua, incendios, accesos no autorizados). 
+- Control de accesos físicos 
+- Quién puede acceder y cómo (tarjeta, PIN, biometría, visitantes). 
+- Protección eléctrica 
+- Tipo de SAI/UPS y autonomía aproximada. 
+- Uso o no de generador eléctrico. 
+#### Protección contra incendios 
+- Sistemas de detección y extinción elegidos. 
+#### Condiciones ambientales 
+- Temperatura, humedad y climatización. 
+#### Gestión del personal y visitantes
+- Normas básicas de acceso y acompañamiento. 
+### 3️ Seguridad pasiva y almacenamiento 
+Describir y justificar: 
+#### Tipo de almacenamiento utilizado 
+- NAS, servidor de archivos, SAN o nube. 
+#### Sistema RAID 
+- Tipo elegido y motivo. 
+#### Diferencia entre RAID y copias de seguridad 
+- Explicada correctamente con un ejemplo. 
+### 4️ Plan de copias de seguridad 
+Definir un plan de backups que incluya: 
+- Tipo de copias (completa, incremental, diferencial). 
+- Periodicidad. 
+- Ubicación de las copias (local, externa, nube). 
+- Medidas de protección de las copias (cifrado, acceso). 
+### 5️ Recuperación ante incidentes 
+Explicar cómo actuaría la empresa ante: 
+- Borrado accidental de un archivo. 
+- Fallo grave de un servidor. 
+- Incidente crítico (incendio, ransomware, pérdida total del CPD).
+
+# CRITERIOS DE EVALUACIÓN (RÚBRICA) 
+### 1. Comprensión de los conceptos (2 puntos) 
+- Se diferencian correctamente seguridad física, seguridad lógica y seguridad pasiva. 
+- Uso correcto del vocabulario técnico. 
+### 2. Seguridad física (3 puntos) 
+Se valorará: 
+- Adecuación de la ubicación del CPD. 
+- Control de accesos coherente. 
+- Medidas eléctricas y contra incendios bien justificadas. 
+- Condiciones ambientales correctas. 
+### 3. Seguridad pasiva y almacenamiento (2 puntos) 
+- Elección adecuada de RAID y tipo de almacenamiento. 
+- Explicación clara de por qué RAID no sustituye al backup. 
+### 4. Plan de copias de seguridad y recuperación (2 puntos) 
+- Plan realista y bien estructurado. 
+- Uso correcto de tipos de copias y restauración. 
+- Coherencia entre riesgos y soluciones. 
+### 5. Claridad, estructura y presentación (1 punto) 
+- Documento bien organizado. 
+- Redacción clara y ordenada. 
+- Esquemas o tablas si se usan, bien explicados.
+
